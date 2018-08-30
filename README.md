@@ -1,6 +1,6 @@
 # IntelliJ IDEA 常用配置
 
-本配置为 `flagwind` 团队日常使用的配置，您也可以直接下载 [settings.jar]("./settings/flagwind.jar") 文件直接导入 IntelliJ IDEA。
+本配置为 `flagwind` 团队日常使用的配置，您也可以直接下载 [settings.jar](./settings/flagwind.jar) 文件直接导入 IntelliJ IDEA。
 
 ## VM 参数修改
 
